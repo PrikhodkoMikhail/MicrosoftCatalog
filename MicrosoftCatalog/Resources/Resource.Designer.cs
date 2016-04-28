@@ -72,6 +72,9 @@ namespace MicrosoftCatalog
 			// aapt resource value: 0x7f050001
 			public const int buttonNext = 2131034113;
 			
+			// aapt resource value: 0x7f050003
+			public const int imageItem = 2131034115;
+			
 			// aapt resource value: 0x7f050002
 			public const int textTitle = 2131034114;
 			
